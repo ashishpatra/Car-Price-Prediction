@@ -1,7 +1,7 @@
 ## Car Price Prediction Project
 **Author : Ashish Kumar Patra**
-**Date : 22nd April 2021**
-In this Project, we are performing Linear Regression Algorithm, and using the Model to Predict the Car Price.
+<br>**Date : 22nd April 2021**
+<br>In this Project, we are performing Linear Regression Algorithm, and using the Model to Predict the Car Price.
 
 
 Car Price Prediction Dataset (CarPrice.csv)
